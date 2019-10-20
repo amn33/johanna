@@ -63,6 +63,46 @@ namespace johanna.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap business_application_addthedatabase_add_insert_database_db_2313 {
+            get {
+                object obj = ResourceManager.GetObject("business_application_addthedatabase_add_insert_database_db_2313", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap business_application_addthedatabase_add_insert_database_db_2313__1_ {
+            get {
+                object obj = ResourceManager.GetObject("business_application_addthedatabase_add_insert_database_db_2313 (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap business_application_addthedatabase_add_insert_database_db_2313__1_1 {
+            get {
+                object obj = ResourceManager.GetObject("business_application_addthedatabase_add_insert_database_db_2313 (1)1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap businessapplication_distributor_report_document_negocio_2319 {
+            get {
+                object obj = ResourceManager.GetObject("businessapplication_distributor_report_document_negocio_2319", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap creatividad {
             get {
                 object obj = ResourceManager.GetObject("creatividad", resourceCulture);
@@ -83,6 +123,16 @@ namespace johanna.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap delete_4219 {
+            get {
+                object obj = ResourceManager.GetObject("delete_4219", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap factura {
             get {
                 object obj = ResourceManager.GetObject("factura", resourceCulture);
@@ -96,6 +146,16 @@ namespace johanna.Properties {
         internal static System.Drawing.Bitmap grupo {
             get {
                 object obj = ResourceManager.GetObject("grupo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap ic_ad_97607 {
+            get {
+                object obj = ResourceManager.GetObject("ic-ad_97607", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

@@ -92,6 +92,24 @@
   <ItemGroup>
     <None Include="Resources\grupo.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\business_application_addthedatabase_add_insert_database_db_2313.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\business_application_addthedatabase_add_insert_database_db_2313 %281%29.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\businessapplication_distributor_report_document_negocio_2319.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\business_application_addthedatabase_add_insert_database_db_2313 %281%291.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete_4219.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ic-ad_97607.ico" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
