@@ -61,9 +61,9 @@
             this.label14 = new System.Windows.Forms.Label();
             this.button8 = new System.Windows.Forms.Button();
             this.button4 = new System.Windows.Forms.Button();
+            this.button5 = new System.Windows.Forms.Button();
             this.button7 = new System.Windows.Forms.Button();
             this.button6 = new System.Windows.Forms.Button();
-            this.button5 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
@@ -235,7 +235,9 @@
             // 
             // panel4
             // 
+            this.panel4.Controls.Add(this.button4);
             this.panel4.Controls.Add(this.button7);
+            this.panel4.Controls.Add(this.button8);
             this.panel4.Controls.Add(this.button6);
             this.panel4.Controls.Add(this.button5);
             this.panel4.Controls.Add(this.button3);
@@ -368,69 +370,71 @@
             // button8
             // 
             this.button8.Font = new System.Drawing.Font("Cambria", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button8.Location = new System.Drawing.Point(311, 432);
+            this.button8.Location = new System.Drawing.Point(45, 27);
             this.button8.Name = "button8";
-            this.button8.Size = new System.Drawing.Size(77, 25);
+            this.button8.Size = new System.Drawing.Size(98, 25);
             this.button8.TabIndex = 6;
             this.button8.Text = "Calcular";
+            this.button8.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.button8.UseVisualStyleBackColor = true;
             // 
             // button4
             // 
             this.button4.Font = new System.Drawing.Font("Cambria", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button4.Location = new System.Drawing.Point(163, 433);
+            this.button4.Location = new System.Drawing.Point(45, 58);
             this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(77, 25);
+            this.button4.Size = new System.Drawing.Size(98, 25);
             this.button4.TabIndex = 20;
             this.button4.Text = "Producto";
+            this.button4.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.button4.UseVisualStyleBackColor = true;
+            // 
+            // button5
+            // 
+            this.button5.Font = new System.Drawing.Font("Cambria", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button5.Location = new System.Drawing.Point(45, 192);
+            this.button5.Name = "button5";
+            this.button5.Size = new System.Drawing.Size(101, 25);
+            this.button5.TabIndex = 21;
+            this.button5.Text = "Borrar";
+            this.button5.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.button5.UseVisualStyleBackColor = true;
             // 
             // button7
             // 
             this.button7.Font = new System.Drawing.Font("Cambria", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button7.Image = global::johanna.Properties.Resources.ic_ad_97607;
-            this.button7.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button7.Location = new System.Drawing.Point(23, 166);
+            this.button7.Location = new System.Drawing.Point(45, 161);
             this.button7.Name = "button7";
-            this.button7.Size = new System.Drawing.Size(129, 42);
-            this.button7.TabIndex = 10;
+            this.button7.Size = new System.Drawing.Size(98, 25);
+            this.button7.TabIndex = 22;
             this.button7.Text = "Facturar";
+            this.button7.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.button7.UseVisualStyleBackColor = true;
             // 
             // button6
             // 
             this.button6.Font = new System.Drawing.Font("Cambria", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button6.Image = global::johanna.Properties.Resources.delete_4219;
+            this.button6.Image = global::johanna.Properties.Resources.iconfinder_158_Save_2123968;
             this.button6.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button6.Location = new System.Drawing.Point(23, 118);
+            this.button6.Location = new System.Drawing.Point(45, 89);
             this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(129, 42);
-            this.button6.TabIndex = 9;
-            this.button6.Text = "Borrar";
+            this.button6.Size = new System.Drawing.Size(98, 29);
+            this.button6.TabIndex = 22;
+            this.button6.Text = "   Guardar";
+            this.button6.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.button6.UseVisualStyleBackColor = true;
-            // 
-            // button5
-            // 
-            this.button5.Font = new System.Drawing.Font("Cambria", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button5.Image = global::johanna.Properties.Resources.business_application_addthedatabase_add_insert_database_db_2313__1_1;
-            this.button5.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button5.Location = new System.Drawing.Point(23, 70);
-            this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(129, 42);
-            this.button5.TabIndex = 8;
-            this.button5.Text = "Guardar";
-            this.button5.UseVisualStyleBackColor = true;
             // 
             // button3
             // 
             this.button3.Font = new System.Drawing.Font("Cambria", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button3.Image = global::johanna.Properties.Resources.business_application_addthedatabase_add_insert_database_db_2313__1_1;
+            this.button3.Image = global::johanna.Properties.Resources.iconfinder_Streamline_77_185097;
             this.button3.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button3.Location = new System.Drawing.Point(23, 22);
+            this.button3.Location = new System.Drawing.Point(45, 123);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(129, 42);
+            this.button3.Size = new System.Drawing.Size(98, 32);
             this.button3.TabIndex = 6;
-            this.button3.Text = " Agregar";
+            this.button3.Text = "Agregar";
+            this.button3.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.button3.UseVisualStyleBackColor = true;
             // 
             // pictureBox2
@@ -459,8 +463,6 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(843, 520);
-            this.Controls.Add(this.button4);
-            this.Controls.Add(this.button8);
             this.Controls.Add(this.label14);
             this.Controls.Add(this.label13);
             this.Controls.Add(this.textBox9);
@@ -533,12 +535,12 @@
         private System.Windows.Forms.TextBox textBox9;
         private System.Windows.Forms.Label label13;
         private System.Windows.Forms.Label label14;
-        private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.Button button8;
+        private System.Windows.Forms.Button button4;
         private System.Windows.Forms.Button button7;
         private System.Windows.Forms.Button button6;
         private System.Windows.Forms.Button button5;
-        private System.Windows.Forms.Button button8;
-        private System.Windows.Forms.Button button4;
+        private System.Windows.Forms.Button button3;
     }
 }
 

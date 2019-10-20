@@ -159,5 +159,65 @@ namespace johanna.Properties {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap iconfinder_158_Save_2123968 {
+            get {
+                object obj = ResourceManager.GetObject("iconfinder_158-Save_2123968", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap iconfinder_Streamline_77_185097 {
+            get {
+                object obj = ResourceManager.GetObject("iconfinder_Streamline-77_185097", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap iconfinder_User_Interface_48_2044240 {
+            get {
+                object obj = ResourceManager.GetObject("iconfinder_User_Interface-48_2044240", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap iconfinder_User_Interface_48_2044240__1_ {
+            get {
+                object obj = ResourceManager.GetObject("iconfinder_User_Interface-48_2044240 (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap iconfinder_User_Interface_48_2044240__2_ {
+            get {
+                object obj = ResourceManager.GetObject("iconfinder_User_Interface-48_2044240 (2)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap iconfinder_User_Interface_48_2044240__3_ {
+            get {
+                object obj = ResourceManager.GetObject("iconfinder_User_Interface-48_2044240 (3)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }
